@@ -1,2 +1,2 @@
 # Night-Howler
-Continuous Network Monitoring
+Continuous Bandwidth Monitoring Tool
